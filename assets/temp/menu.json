@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+    "title": "9:00 - 19:00",
+    "icon": "worker-mode"
+    },
+    {
+      "title": "+7 (967) 018-37-77",
+      "icon": "phone",
+      "url": "tel:<+7(967)018-37-77>"
+    },
+    {
+      "title": "+7 (967) 018-37-77",
+      "icon": "whatsapp",
+      "url": "https://api.whatsapp.com/send/?phone=+7(967)018-37-77"
+    }
+  ],
+  "nav": [
+    {
+      "title": "Оплата и доставка",
+      "url": "PaymentDelivery"
+    },
+    {
+      "title": "Качество",
+      "url": "Quality"
+    },
+    {
+      "title": "О нас",
+      "url": "About"
+    },
+    {
+      "title": "Рецепты",
+      "url": "Recipes"
+    },
+    {
+      "title": "Отзывы",
+      "url": "Reviews"
+    },
+    {
+      "title": "Блог",
+      "url": "Blog"
+    },
+    {
+      "title": "Контакты",
+      "url": "Contacts"
+    }
+  ]
+}

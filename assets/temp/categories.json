@@ -1,0 +1,1036 @@
+[
+  {
+      "id": 15,
+      "name": "Misc",
+      "slug": "misc",
+      "parent": 0,
+      "description": "",
+      "display": "default",
+      "image": null,
+      "menu_order": 9,
+      "count": 0,
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v18.6 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Архивы Misc - Интернет-магазин мяса и птицы</title>\n<!-- Заметка для администратора: на этой странице не отображается мета-описание, потому что оно не задано. Укажите его для данной страницы, либо перейдите в меню [SEO - Отображение в поисковой выдаче] и настройте шаблон. -->\n<meta name=\"robots\" content=\"noindex, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Архивы Misc - Интернет-магазин мяса и птицы\" />\n<meta property=\"og:url\" content=\"https://back.lovemeat.ru/product-category/misc/\" />\n<meta property=\"og:site_name\" content=\"Интернет-магазин мяса и птицы\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://back.lovemeat.ru/#website\",\"url\":\"https://back.lovemeat.ru/\",\"name\":\"Интернет-магазин мяса и птицы\",\"description\":\"Домашнее мясо\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://back.lovemeat.ru/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"CollectionPage\",\"@id\":\"https://back.lovemeat.ru/product-category/misc/#webpage\",\"url\":\"https://back.lovemeat.ru/product-category/misc/\",\"name\":\"Архивы Misc - Интернет-магазин мяса и птицы\",\"isPartOf\":{\"@id\":\"https://back.lovemeat.ru/#website\"},\"breadcrumb\":{\"@id\":\"https://back.lovemeat.ru/product-category/misc/#breadcrumb\"},\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://back.lovemeat.ru/product-category/misc/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://back.lovemeat.ru/product-category/misc/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Главная страница\",\"item\":\"https://back.lovemeat.ru/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Misc\"}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head_json": {
+          "title": "Архивы Misc - Интернет-магазин мяса и птицы",
+          "robots": {
+              "index": "noindex",
+              "follow": "follow",
+              "max-snippet": "max-snippet:-1",
+              "max-image-preview": "max-image-preview:large",
+              "max-video-preview": "max-video-preview:-1"
+          },
+          "og_locale": "ru_RU",
+          "og_type": "article",
+          "og_title": "Архивы Misc - Интернет-магазин мяса и птицы",
+          "og_url": "https://back.lovemeat.ru/product-category/misc/",
+          "og_site_name": "Интернет-магазин мяса и птицы",
+          "twitter_card": "summary_large_image",
+          "schema": {
+              "@context": "https://schema.org",
+              "@graph": [
+                  {
+                      "@type": "WebSite",
+                      "@id": "https://back.lovemeat.ru/#website",
+                      "url": "https://back.lovemeat.ru/",
+                      "name": "Интернет-магазин мяса и птицы",
+                      "description": "Домашнее мясо",
+                      "potentialAction": [
+                          {
+                              "@type": "SearchAction",
+                              "target": {
+                                  "@type": "EntryPoint",
+                                  "urlTemplate": "https://back.lovemeat.ru/?s={search_term_string}"
+                              },
+                              "query-input": "required name=search_term_string"
+                          }
+                      ],
+                      "inLanguage": "ru-RU"
+                  },
+                  {
+                      "@type": "CollectionPage",
+                      "@id": "https://back.lovemeat.ru/product-category/misc/#webpage",
+                      "url": "https://back.lovemeat.ru/product-category/misc/",
+                      "name": "Архивы Misc - Интернет-магазин мяса и птицы",
+                      "isPartOf": {
+                          "@id": "https://back.lovemeat.ru/#website"
+                      },
+                      "breadcrumb": {
+                          "@id": "https://back.lovemeat.ru/product-category/misc/#breadcrumb"
+                      },
+                      "inLanguage": "ru-RU",
+                      "potentialAction": [
+                          {
+                              "@type": "ReadAction",
+                              "target": [
+                                  "https://back.lovemeat.ru/product-category/misc/"
+                              ]
+                          }
+                      ]
+                  },
+                  {
+                      "@type": "BreadcrumbList",
+                      "@id": "https://back.lovemeat.ru/product-category/misc/#breadcrumb",
+                      "itemListElement": [
+                          {
+                              "@type": "ListItem",
+                              "position": 1,
+                              "name": "Главная страница",
+                              "item": "https://back.lovemeat.ru/"
+                          },
+                          {
+                              "@type": "ListItem",
+                              "position": 2,
+                              "name": "Misc"
+                          }
+                      ]
+                  }
+              ]
+          }
+      },
+      "_links": {
+          "self": [
+              {
+                  "href": "https://back.lovemeat.ru/wp-json/wc/v3/products/categories/15"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://back.lovemeat.ru/wp-json/wc/v3/products/categories"
+              }
+          ]
+      }
+  },
+  {
+      "id": 31,
+      "name": "Баранина",
+      "slug": "lamb",
+      "parent": 0,
+      "description": "Баранина с доставкой <strong>в Москве</strong> и Московской области\r\nСвежая баранина отличается красивым розовато-красным оттенком, светлыми прожилками. Блюда из такого мяса получаются по-особенному изысканными, ароматными, пряными. Ими хочется украсить стол на праздники, порадовать близких, родных людей.<strong> Купить баранину</strong> высокого качества <strong>в Москве</strong> предлагает известная мясная лавка ЛавМит. Сотрудничаем только с проверенными домашними хозяйствами, имеющими сертификаты соответствия и экологичности продукции.\r\n\r\nНаш секрет в том, что баранину нам доставляют из Дагестана.\r\n\r\nАссортимент предоставляет <strong>купить мясо баранины</strong> в следующих видах:\r\n<ul>\r\n \t<li>мякоть – идеально подходит для длительного тушения, обладает характерным ароматом, бесподобна для гуляша и бешбармака;</li>\r\n \t<li>каре – превосходно подходит для жарки и запекания, смело выбирайте для шашлыка.</li>\r\n \t<li>лопатка – отличается нежностью, что дает возможность сделать гриль или использовать для стейка;</li>\r\n \t<li>шейка – чем дольше процесс тушения, тем более благородным и непревзойденным будут вкусовые качества;</li>\r\n \t<li>ребра – нет более наваристого супа, чем сваренного из данной части;</li>\r\n \t<li>курдюк – деликатес для любителей необычных блюд;</li>\r\n \t<li>фарш – отличается характерным привкусом, придающим фирменный оттенок блюду.</li>\r\n</ul>\r\nВ каталоге только сочная, вкусная <strong>баранина</strong>, <strong>купить</strong> которую можно <strong>в Москве</strong> с доставкой в нашем интернет-магазине. Доставка мяса баранины – удобная опция, позволяющая существенно сэкономить время. Наши сотрудники специально для Вас выберут свежайшую домашнюю баранину, доставят ее в указанный срок.",
+      "display": "default",
+      "image": null,
+      "menu_order": 3,
+      "count": 8,
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v18.6 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Купить баранину с доставкой в Москве и Московской области</title>\n<meta name=\"description\" content=\"Мясная лавка LoveMeat славится качественной бараниной. Купить мясо в нашем интернет-магазине можно в Москве, по привлекательной цене.\" />\n<meta name=\"robots\" content=\"noindex, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Купить баранину с доставкой в Москве и Московской области\" />\n<meta property=\"og:description\" content=\"Мясная лавка LoveMeat славится качественной бараниной. Купить мясо в нашем интернет-магазине можно в Москве, по привлекательной цене.\" />\n<meta property=\"og:url\" content=\"https://back.lovemeat.ru/product-category/lamb/\" />\n<meta property=\"og:site_name\" content=\"Интернет-магазин мяса и птицы\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://back.lovemeat.ru/#website\",\"url\":\"https://back.lovemeat.ru/\",\"name\":\"Интернет-магазин мяса и птицы\",\"description\":\"Домашнее мясо\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://back.lovemeat.ru/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"CollectionPage\",\"@id\":\"https://back.lovemeat.ru/product-category/lamb/#webpage\",\"url\":\"https://back.lovemeat.ru/product-category/lamb/\",\"name\":\"Купить баранину с доставкой в Москве и Московской области\",\"isPartOf\":{\"@id\":\"https://back.lovemeat.ru/#website\"},\"description\":\"Мясная лавка LoveMeat славится качественной бараниной. Купить мясо в нашем интернет-магазине можно в Москве, по привлекательной цене.\",\"breadcrumb\":{\"@id\":\"https://back.lovemeat.ru/product-category/lamb/#breadcrumb\"},\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://back.lovemeat.ru/product-category/lamb/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://back.lovemeat.ru/product-category/lamb/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Главная страница\",\"item\":\"https://back.lovemeat.ru/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Баранина\"}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head_json": {
+          "title": "Купить баранину с доставкой в Москве и Московской области",
+          "description": "Мясная лавка LoveMeat славится качественной бараниной. Купить мясо в нашем интернет-магазине можно в Москве, по привлекательной цене.",
+          "robots": {
+              "index": "noindex",
+              "follow": "follow",
+              "max-snippet": "max-snippet:-1",
+              "max-image-preview": "max-image-preview:large",
+              "max-video-preview": "max-video-preview:-1"
+          },
+          "og_locale": "ru_RU",
+          "og_type": "article",
+          "og_title": "Купить баранину с доставкой в Москве и Московской области",
+          "og_description": "Мясная лавка LoveMeat славится качественной бараниной. Купить мясо в нашем интернет-магазине можно в Москве, по привлекательной цене.",
+          "og_url": "https://back.lovemeat.ru/product-category/lamb/",
+          "og_site_name": "Интернет-магазин мяса и птицы",
+          "twitter_card": "summary_large_image",
+          "schema": {
+              "@context": "https://schema.org",
+              "@graph": [
+                  {
+                      "@type": "WebSite",
+                      "@id": "https://back.lovemeat.ru/#website",
+                      "url": "https://back.lovemeat.ru/",
+                      "name": "Интернет-магазин мяса и птицы",
+                      "description": "Домашнее мясо",
+                      "potentialAction": [
+                          {
+                              "@type": "SearchAction",
+                              "target": {
+                                  "@type": "EntryPoint",
+                                  "urlTemplate": "https://back.lovemeat.ru/?s={search_term_string}"
+                              },
+                              "query-input": "required name=search_term_string"
+                          }
+                      ],
+                      "inLanguage": "ru-RU"
+                  },
+                  {
+                      "@type": "CollectionPage",
+                      "@id": "https://back.lovemeat.ru/product-category/lamb/#webpage",
+                      "url": "https://back.lovemeat.ru/product-category/lamb/",
+                      "name": "Купить баранину с доставкой в Москве и Московской области",
+                      "isPartOf": {
+                          "@id": "https://back.lovemeat.ru/#website"
+                      },
+                      "description": "Мясная лавка LoveMeat славится качественной бараниной. Купить мясо в нашем интернет-магазине можно в Москве, по привлекательной цене.",
+                      "breadcrumb": {
+                          "@id": "https://back.lovemeat.ru/product-category/lamb/#breadcrumb"
+                      },
+                      "inLanguage": "ru-RU",
+                      "potentialAction": [
+                          {
+                              "@type": "ReadAction",
+                              "target": [
+                                  "https://back.lovemeat.ru/product-category/lamb/"
+                              ]
+                          }
+                      ]
+                  },
+                  {
+                      "@type": "BreadcrumbList",
+                      "@id": "https://back.lovemeat.ru/product-category/lamb/#breadcrumb",
+                      "itemListElement": [
+                          {
+                              "@type": "ListItem",
+                              "position": 1,
+                              "name": "Главная страница",
+                              "item": "https://back.lovemeat.ru/"
+                          },
+                          {
+                              "@type": "ListItem",
+                              "position": 2,
+                              "name": "Баранина"
+                          }
+                      ]
+                  }
+              ]
+          }
+      },
+      "_links": {
+          "self": [
+              {
+                  "href": "https://back.lovemeat.ru/wp-json/wc/v3/products/categories/31"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://back.lovemeat.ru/wp-json/wc/v3/products/categories"
+              }
+          ]
+      }
+  },
+  {
+      "id": 37,
+      "name": "Гастрономия",
+      "slug": "gastronomiya",
+      "parent": 0,
+      "description": "",
+      "display": "default",
+      "image": null,
+      "menu_order": 11,
+      "count": 0,
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v18.6 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Архивы Гастрономия - Интернет-магазин мяса и птицы</title>\n<!-- Заметка для администратора: на этой странице не отображается мета-описание, потому что оно не задано. Укажите его для данной страницы, либо перейдите в меню [SEO - Отображение в поисковой выдаче] и настройте шаблон. -->\n<meta name=\"robots\" content=\"noindex, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Архивы Гастрономия - Интернет-магазин мяса и птицы\" />\n<meta property=\"og:url\" content=\"https://back.lovemeat.ru/product-category/gastronomiya/\" />\n<meta property=\"og:site_name\" content=\"Интернет-магазин мяса и птицы\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://back.lovemeat.ru/#website\",\"url\":\"https://back.lovemeat.ru/\",\"name\":\"Интернет-магазин мяса и птицы\",\"description\":\"Домашнее мясо\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://back.lovemeat.ru/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"CollectionPage\",\"@id\":\"https://back.lovemeat.ru/product-category/gastronomiya/#webpage\",\"url\":\"https://back.lovemeat.ru/product-category/gastronomiya/\",\"name\":\"Архивы Гастрономия - Интернет-магазин мяса и птицы\",\"isPartOf\":{\"@id\":\"https://back.lovemeat.ru/#website\"},\"breadcrumb\":{\"@id\":\"https://back.lovemeat.ru/product-category/gastronomiya/#breadcrumb\"},\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://back.lovemeat.ru/product-category/gastronomiya/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://back.lovemeat.ru/product-category/gastronomiya/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Главная страница\",\"item\":\"https://back.lovemeat.ru/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Гастрономия\"}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head_json": {
+          "title": "Архивы Гастрономия - Интернет-магазин мяса и птицы",
+          "robots": {
+              "index": "noindex",
+              "follow": "follow",
+              "max-snippet": "max-snippet:-1",
+              "max-image-preview": "max-image-preview:large",
+              "max-video-preview": "max-video-preview:-1"
+          },
+          "og_locale": "ru_RU",
+          "og_type": "article",
+          "og_title": "Архивы Гастрономия - Интернет-магазин мяса и птицы",
+          "og_url": "https://back.lovemeat.ru/product-category/gastronomiya/",
+          "og_site_name": "Интернет-магазин мяса и птицы",
+          "twitter_card": "summary_large_image",
+          "schema": {
+              "@context": "https://schema.org",
+              "@graph": [
+                  {
+                      "@type": "WebSite",
+                      "@id": "https://back.lovemeat.ru/#website",
+                      "url": "https://back.lovemeat.ru/",
+                      "name": "Интернет-магазин мяса и птицы",
+                      "description": "Домашнее мясо",
+                      "potentialAction": [
+                          {
+                              "@type": "SearchAction",
+                              "target": {
+                                  "@type": "EntryPoint",
+                                  "urlTemplate": "https://back.lovemeat.ru/?s={search_term_string}"
+                              },
+                              "query-input": "required name=search_term_string"
+                          }
+                      ],
+                      "inLanguage": "ru-RU"
+                  },
+                  {
+                      "@type": "CollectionPage",
+                      "@id": "https://back.lovemeat.ru/product-category/gastronomiya/#webpage",
+                      "url": "https://back.lovemeat.ru/product-category/gastronomiya/",
+                      "name": "Архивы Гастрономия - Интернет-магазин мяса и птицы",
+                      "isPartOf": {
+                          "@id": "https://back.lovemeat.ru/#website"
+                      },
+                      "breadcrumb": {
+                          "@id": "https://back.lovemeat.ru/product-category/gastronomiya/#breadcrumb"
+                      },
+                      "inLanguage": "ru-RU",
+                      "potentialAction": [
+                          {
+                              "@type": "ReadAction",
+                              "target": [
+                                  "https://back.lovemeat.ru/product-category/gastronomiya/"
+                              ]
+                          }
+                      ]
+                  },
+                  {
+                      "@type": "BreadcrumbList",
+                      "@id": "https://back.lovemeat.ru/product-category/gastronomiya/#breadcrumb",
+                      "itemListElement": [
+                          {
+                              "@type": "ListItem",
+                              "position": 1,
+                              "name": "Главная страница",
+                              "item": "https://back.lovemeat.ru/"
+                          },
+                          {
+                              "@type": "ListItem",
+                              "position": 2,
+                              "name": "Гастрономия"
+                          }
+                      ]
+                  }
+              ]
+          }
+      },
+      "_links": {
+          "self": [
+              {
+                  "href": "https://back.lovemeat.ru/wp-json/wc/v3/products/categories/37"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://back.lovemeat.ru/wp-json/wc/v3/products/categories"
+              }
+          ]
+      }
+  },
+  {
+      "id": 19,
+      "name": "Говядина",
+      "slug": "beef",
+      "parent": 0,
+      "description": "Домашняя говядина высшего качества в интернет-магазине LoveMeat. Только свежее мясо говядина по приятным ценам.\r\n\r\n<strong>Домашняя говядина с доставкой в Москве и Московской области. </strong>Говядина – классика жанра в кулинарии, основа для многих вкуснейших и питательных блюд. Важно учитывать, что вкус будет зависеть от качества мяса. Свежесть, натуральность – вот, что особенно ценится среди настоящих мясоедов. Купить домашнюю говядину, выращенную в естественных условиях с соблюдением норм безопасности, можно в проверенном интернет-магазине ЛавМит.\r\n\r\nВ LoveMeat свежее мясо говядины представлено в ассортименте:\r\n<ul>\r\n \t<li>вырезка – хит продаж, идеально подходящий для нежнейших стейков различной прожарки;</li>\r\n \t<li>грудинка – благодаря жировой прослойке отличается сочностью, насыщенностью вкуса аромата;</li>\r\n \t<li>толстый край – невероятно нежная, практически без прожилок часть, удивляющая характерной текстурой;</li>\r\n \t<li>тонкий край – благодаря мягкости волокон подходит быстрой жарки – стейков, идеально для гриля;</li>\r\n \t<li>субпродукты – изысканные деликатесы, вдохновляющие на создание по-настоящему безупречных блюд;</li>\r\n \t<li>и не только – более десятков позиций.</li>\r\n</ul>\r\n<strong>Говядина купить</strong>, которую можно с доставкой в Москве прошла несколько этапов контроля безопасности, соответствия экологичности, натуральность, пользы. Гурманы и ценители качества предпочитают купить хорошую говядину в LoveMeat.",
+      "display": "default",
+      "image": null,
+      "menu_order": 1,
+      "count": 24,
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v18.6 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Купить домашнюю говядину с доставкой в Москве и области</title>\n<meta name=\"description\" content=\"Домашняя говядина высшего качества в интернет-магазине LoveMeat напрямую от производителя. Только свежее мясо говядина по приятным ценам.\" />\n<meta name=\"robots\" content=\"noindex, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Купить домашнюю говядину с доставкой в Москве и области\" />\n<meta property=\"og:description\" content=\"Домашняя говядина высшего качества в интернет-магазине LoveMeat напрямую от производителя. Только свежее мясо говядина по приятным ценам.\" />\n<meta property=\"og:url\" content=\"https://back.lovemeat.ru/product-category/beef/\" />\n<meta property=\"og:site_name\" content=\"Интернет-магазин мяса и птицы\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://back.lovemeat.ru/#website\",\"url\":\"https://back.lovemeat.ru/\",\"name\":\"Интернет-магазин мяса и птицы\",\"description\":\"Домашнее мясо\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://back.lovemeat.ru/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"CollectionPage\",\"@id\":\"https://back.lovemeat.ru/product-category/beef/#webpage\",\"url\":\"https://back.lovemeat.ru/product-category/beef/\",\"name\":\"Купить домашнюю говядину с доставкой в Москве и области\",\"isPartOf\":{\"@id\":\"https://back.lovemeat.ru/#website\"},\"description\":\"Домашняя говядина высшего качества в интернет-магазине LoveMeat напрямую от производителя. Только свежее мясо говядина по приятным ценам.\",\"breadcrumb\":{\"@id\":\"https://back.lovemeat.ru/product-category/beef/#breadcrumb\"},\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://back.lovemeat.ru/product-category/beef/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://back.lovemeat.ru/product-category/beef/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Главная страница\",\"item\":\"https://back.lovemeat.ru/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Говядина\"}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head_json": {
+          "title": "Купить домашнюю говядину с доставкой в Москве и области",
+          "description": "Домашняя говядина высшего качества в интернет-магазине LoveMeat напрямую от производителя. Только свежее мясо говядина по приятным ценам.",
+          "robots": {
+              "index": "noindex",
+              "follow": "follow",
+              "max-snippet": "max-snippet:-1",
+              "max-image-preview": "max-image-preview:large",
+              "max-video-preview": "max-video-preview:-1"
+          },
+          "og_locale": "ru_RU",
+          "og_type": "article",
+          "og_title": "Купить домашнюю говядину с доставкой в Москве и области",
+          "og_description": "Домашняя говядина высшего качества в интернет-магазине LoveMeat напрямую от производителя. Только свежее мясо говядина по приятным ценам.",
+          "og_url": "https://back.lovemeat.ru/product-category/beef/",
+          "og_site_name": "Интернет-магазин мяса и птицы",
+          "twitter_card": "summary_large_image",
+          "schema": {
+              "@context": "https://schema.org",
+              "@graph": [
+                  {
+                      "@type": "WebSite",
+                      "@id": "https://back.lovemeat.ru/#website",
+                      "url": "https://back.lovemeat.ru/",
+                      "name": "Интернет-магазин мяса и птицы",
+                      "description": "Домашнее мясо",
+                      "potentialAction": [
+                          {
+                              "@type": "SearchAction",
+                              "target": {
+                                  "@type": "EntryPoint",
+                                  "urlTemplate": "https://back.lovemeat.ru/?s={search_term_string}"
+                              },
+                              "query-input": "required name=search_term_string"
+                          }
+                      ],
+                      "inLanguage": "ru-RU"
+                  },
+                  {
+                      "@type": "CollectionPage",
+                      "@id": "https://back.lovemeat.ru/product-category/beef/#webpage",
+                      "url": "https://back.lovemeat.ru/product-category/beef/",
+                      "name": "Купить домашнюю говядину с доставкой в Москве и области",
+                      "isPartOf": {
+                          "@id": "https://back.lovemeat.ru/#website"
+                      },
+                      "description": "Домашняя говядина высшего качества в интернет-магазине LoveMeat напрямую от производителя. Только свежее мясо говядина по приятным ценам.",
+                      "breadcrumb": {
+                          "@id": "https://back.lovemeat.ru/product-category/beef/#breadcrumb"
+                      },
+                      "inLanguage": "ru-RU",
+                      "potentialAction": [
+                          {
+                              "@type": "ReadAction",
+                              "target": [
+                                  "https://back.lovemeat.ru/product-category/beef/"
+                              ]
+                          }
+                      ]
+                  },
+                  {
+                      "@type": "BreadcrumbList",
+                      "@id": "https://back.lovemeat.ru/product-category/beef/#breadcrumb",
+                      "itemListElement": [
+                          {
+                              "@type": "ListItem",
+                              "position": 1,
+                              "name": "Главная страница",
+                              "item": "https://back.lovemeat.ru/"
+                          },
+                          {
+                              "@type": "ListItem",
+                              "position": 2,
+                              "name": "Говядина"
+                          }
+                      ]
+                  }
+              ]
+          }
+      },
+      "_links": {
+          "self": [
+              {
+                  "href": "https://back.lovemeat.ru/wp-json/wc/v3/products/categories/19"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://back.lovemeat.ru/wp-json/wc/v3/products/categories"
+              }
+          ]
+      }
+  },
+  {
+      "id": 33,
+      "name": "Индейка",
+      "slug": "turkey",
+      "parent": 0,
+      "description": "Мясо индейки с доставкой <strong>в Москве</strong> и Московской области\r\nИндейка – это благородное, изысканное мясо. Питательные свойства в сочетании с непревзойденным вкусом, сочностью делают ее фаворитом в кулинарии. Легкость в приготовлении, отличная сочетаемость с другими продуктами также прибавляют баллы в пользу индюшатины. Главное правильно выбрать и купить мясо индейки. Оно должно быть насыщенно розового оттенка, с белыми прожилками, ровной текстурой.\r\n\r\nОсобенным вкусом и ароматом обладает<strong> индейка домашняя</strong>,<strong> купить</strong> которую можно в интернет-магазине LoveMeat. Обеспечиваем высокое качество мясной продукции по системе Меркурий. Следим за натуральностью. Специалисты бережно выращивают птицу на специально подготовленных территориях, кормят естественной в природе пищей. Следят за здоровьем индеек. В результате получается абсолютно безопасное для употребления мясо, которое приносит пользу здоровью.\r\n\r\nЧтобы <strong>купить индейку</strong> с доставкой воспользуйтесь простым способом оформления заказа. Положите товар в корзину, укажите количество и сроки доставки. Ежедневно наши курьеры развозят заказы<strong> в Москве</strong>, Московской области. Предварительно уточняем удобное время.\r\n\r\nВыбирайте для себя и близких только лучшее! Подробности о том, как купить мясо индейки в ЛавМит в Москве можете задать менеджеру, позвонив по указанному на сайте номеру телефона.",
+      "display": "default",
+      "image": null,
+      "menu_order": 6,
+      "count": 7,
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v18.6 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Купить мясо индейки с доставкой в Москве и Московской области</title>\n<meta name=\"description\" content=\"Купить мясо индейки предлагает известная мясная лавка LoveMeat в Москве, Московской области. Доставка на собственном транспорте. Гарантируем 100% свежесть.\" />\n<meta name=\"robots\" content=\"noindex, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Купить мясо индейки с доставкой в Москве и Московской области\" />\n<meta property=\"og:description\" content=\"Купить мясо индейки предлагает известная мясная лавка LoveMeat в Москве, Московской области. Доставка на собственном транспорте. Гарантируем 100% свежесть.\" />\n<meta property=\"og:url\" content=\"https://back.lovemeat.ru/product-category/turkey/\" />\n<meta property=\"og:site_name\" content=\"Интернет-магазин мяса и птицы\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://back.lovemeat.ru/#website\",\"url\":\"https://back.lovemeat.ru/\",\"name\":\"Интернет-магазин мяса и птицы\",\"description\":\"Домашнее мясо\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://back.lovemeat.ru/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"CollectionPage\",\"@id\":\"https://back.lovemeat.ru/product-category/turkey/#webpage\",\"url\":\"https://back.lovemeat.ru/product-category/turkey/\",\"name\":\"Купить мясо индейки с доставкой в Москве и Московской области\",\"isPartOf\":{\"@id\":\"https://back.lovemeat.ru/#website\"},\"description\":\"Купить мясо индейки предлагает известная мясная лавка LoveMeat в Москве, Московской области. Доставка на собственном транспорте. Гарантируем 100% свежесть.\",\"breadcrumb\":{\"@id\":\"https://back.lovemeat.ru/product-category/turkey/#breadcrumb\"},\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://back.lovemeat.ru/product-category/turkey/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://back.lovemeat.ru/product-category/turkey/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Главная страница\",\"item\":\"https://back.lovemeat.ru/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Индейка\"}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head_json": {
+          "title": "Купить мясо индейки с доставкой в Москве и Московской области",
+          "description": "Купить мясо индейки предлагает известная мясная лавка LoveMeat в Москве, Московской области. Доставка на собственном транспорте. Гарантируем 100% свежесть.",
+          "robots": {
+              "index": "noindex",
+              "follow": "follow",
+              "max-snippet": "max-snippet:-1",
+              "max-image-preview": "max-image-preview:large",
+              "max-video-preview": "max-video-preview:-1"
+          },
+          "og_locale": "ru_RU",
+          "og_type": "article",
+          "og_title": "Купить мясо индейки с доставкой в Москве и Московской области",
+          "og_description": "Купить мясо индейки предлагает известная мясная лавка LoveMeat в Москве, Московской области. Доставка на собственном транспорте. Гарантируем 100% свежесть.",
+          "og_url": "https://back.lovemeat.ru/product-category/turkey/",
+          "og_site_name": "Интернет-магазин мяса и птицы",
+          "twitter_card": "summary_large_image",
+          "schema": {
+              "@context": "https://schema.org",
+              "@graph": [
+                  {
+                      "@type": "WebSite",
+                      "@id": "https://back.lovemeat.ru/#website",
+                      "url": "https://back.lovemeat.ru/",
+                      "name": "Интернет-магазин мяса и птицы",
+                      "description": "Домашнее мясо",
+                      "potentialAction": [
+                          {
+                              "@type": "SearchAction",
+                              "target": {
+                                  "@type": "EntryPoint",
+                                  "urlTemplate": "https://back.lovemeat.ru/?s={search_term_string}"
+                              },
+                              "query-input": "required name=search_term_string"
+                          }
+                      ],
+                      "inLanguage": "ru-RU"
+                  },
+                  {
+                      "@type": "CollectionPage",
+                      "@id": "https://back.lovemeat.ru/product-category/turkey/#webpage",
+                      "url": "https://back.lovemeat.ru/product-category/turkey/",
+                      "name": "Купить мясо индейки с доставкой в Москве и Московской области",
+                      "isPartOf": {
+                          "@id": "https://back.lovemeat.ru/#website"
+                      },
+                      "description": "Купить мясо индейки предлагает известная мясная лавка LoveMeat в Москве, Московской области. Доставка на собственном транспорте. Гарантируем 100% свежесть.",
+                      "breadcrumb": {
+                          "@id": "https://back.lovemeat.ru/product-category/turkey/#breadcrumb"
+                      },
+                      "inLanguage": "ru-RU",
+                      "potentialAction": [
+                          {
+                              "@type": "ReadAction",
+                              "target": [
+                                  "https://back.lovemeat.ru/product-category/turkey/"
+                              ]
+                          }
+                      ]
+                  },
+                  {
+                      "@type": "BreadcrumbList",
+                      "@id": "https://back.lovemeat.ru/product-category/turkey/#breadcrumb",
+                      "itemListElement": [
+                          {
+                              "@type": "ListItem",
+                              "position": 1,
+                              "name": "Главная страница",
+                              "item": "https://back.lovemeat.ru/"
+                          },
+                          {
+                              "@type": "ListItem",
+                              "position": 2,
+                              "name": "Индейка"
+                          }
+                      ]
+                  }
+              ]
+          }
+      },
+      "_links": {
+          "self": [
+              {
+                  "href": "https://back.lovemeat.ru/wp-json/wc/v3/products/categories/33"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://back.lovemeat.ru/wp-json/wc/v3/products/categories"
+              }
+          ]
+      }
+  },
+  {
+      "id": 36,
+      "name": "Крольчатина",
+      "slug": "rabbit",
+      "parent": 0,
+      "description": "Мясо кролика с доставкой в Москве и Московской области\r\nСочное, нежное и нежирное – так можно охарактеризовать мясо кролика. Оно прекрасно сочетается с гарнирами, легко готовится, и буквально тает во рту. Но вкусовые качества напрямую зависят от того, как выращено <strong>мясо кролика</strong>, <strong>купить</strong> лучше домашнее, <strong>в Москве</strong> в специальных лицензированных магазинах.\r\n\r\nВ мясной лавке LoveMeat можно <strong>купить кролика мясо</strong>, работаем<strong> в Москве</strong>, предлагаем качественную домашнюю продукцию. Сотрудничество с лучшими хозяйствами позволяет добиться фантастических результатов в качестве продукции. Специалисты выращивают животных в практически природных условиях, обеспечивая всем необходимым для здорового развития.\r\n\r\nОтсутствие кормов с добавками, влияющими на рост, благоприятно сказывается на сохранении полезных веществ. Контроль осуществляется на всех этапах от приема продукции до доставки клиенту. Осуществляем проверку по системе Меркурий.\r\n\r\n<strong>Купить мясо кролика домашнего</strong> можно онлайн. Просто положите в корзину, выберите количество и укажите доставку. Доставим свежее, ароматное и невероятно вкусное мясо. Если возникли вопросы по выбору, то оформите обратный звонок. Наш менеджер расскажет обо всех нюансах заказа. Выбирайте для себя только лучшее.",
+      "display": "default",
+      "image": null,
+      "menu_order": 10,
+      "count": 1,
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v18.6 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Купить мясо кролика с доставкой в Москве и Московской области</title>\n<meta name=\"description\" content=\"Интернет-магазин LoveMeat предлагает купить мясо кролика домашнего. Ведем сотрудничество с проверенными лучшими хозяйствами. 100% натуральность, свежесть.\" />\n<meta name=\"robots\" content=\"noindex, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Купить мясо кролика с доставкой в Москве и Московской области\" />\n<meta property=\"og:description\" content=\"Интернет-магазин LoveMeat предлагает купить мясо кролика домашнего. Ведем сотрудничество с проверенными лучшими хозяйствами. 100% натуральность, свежесть.\" />\n<meta property=\"og:url\" content=\"https://back.lovemeat.ru/product-category/rabbit/\" />\n<meta property=\"og:site_name\" content=\"Интернет-магазин мяса и птицы\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://back.lovemeat.ru/#website\",\"url\":\"https://back.lovemeat.ru/\",\"name\":\"Интернет-магазин мяса и птицы\",\"description\":\"Домашнее мясо\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://back.lovemeat.ru/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"CollectionPage\",\"@id\":\"https://back.lovemeat.ru/product-category/rabbit/#webpage\",\"url\":\"https://back.lovemeat.ru/product-category/rabbit/\",\"name\":\"Купить мясо кролика с доставкой в Москве и Московской области\",\"isPartOf\":{\"@id\":\"https://back.lovemeat.ru/#website\"},\"description\":\"Интернет-магазин LoveMeat предлагает купить мясо кролика домашнего. Ведем сотрудничество с проверенными лучшими хозяйствами. 100% натуральность, свежесть.\",\"breadcrumb\":{\"@id\":\"https://back.lovemeat.ru/product-category/rabbit/#breadcrumb\"},\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://back.lovemeat.ru/product-category/rabbit/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://back.lovemeat.ru/product-category/rabbit/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Главная страница\",\"item\":\"https://back.lovemeat.ru/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Крольчатина\"}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head_json": {
+          "title": "Купить мясо кролика с доставкой в Москве и Московской области",
+          "description": "Интернет-магазин LoveMeat предлагает купить мясо кролика домашнего. Ведем сотрудничество с проверенными лучшими хозяйствами. 100% натуральность, свежесть.",
+          "robots": {
+              "index": "noindex",
+              "follow": "follow",
+              "max-snippet": "max-snippet:-1",
+              "max-image-preview": "max-image-preview:large",
+              "max-video-preview": "max-video-preview:-1"
+          },
+          "og_locale": "ru_RU",
+          "og_type": "article",
+          "og_title": "Купить мясо кролика с доставкой в Москве и Московской области",
+          "og_description": "Интернет-магазин LoveMeat предлагает купить мясо кролика домашнего. Ведем сотрудничество с проверенными лучшими хозяйствами. 100% натуральность, свежесть.",
+          "og_url": "https://back.lovemeat.ru/product-category/rabbit/",
+          "og_site_name": "Интернет-магазин мяса и птицы",
+          "twitter_card": "summary_large_image",
+          "schema": {
+              "@context": "https://schema.org",
+              "@graph": [
+                  {
+                      "@type": "WebSite",
+                      "@id": "https://back.lovemeat.ru/#website",
+                      "url": "https://back.lovemeat.ru/",
+                      "name": "Интернет-магазин мяса и птицы",
+                      "description": "Домашнее мясо",
+                      "potentialAction": [
+                          {
+                              "@type": "SearchAction",
+                              "target": {
+                                  "@type": "EntryPoint",
+                                  "urlTemplate": "https://back.lovemeat.ru/?s={search_term_string}"
+                              },
+                              "query-input": "required name=search_term_string"
+                          }
+                      ],
+                      "inLanguage": "ru-RU"
+                  },
+                  {
+                      "@type": "CollectionPage",
+                      "@id": "https://back.lovemeat.ru/product-category/rabbit/#webpage",
+                      "url": "https://back.lovemeat.ru/product-category/rabbit/",
+                      "name": "Купить мясо кролика с доставкой в Москве и Московской области",
+                      "isPartOf": {
+                          "@id": "https://back.lovemeat.ru/#website"
+                      },
+                      "description": "Интернет-магазин LoveMeat предлагает купить мясо кролика домашнего. Ведем сотрудничество с проверенными лучшими хозяйствами. 100% натуральность, свежесть.",
+                      "breadcrumb": {
+                          "@id": "https://back.lovemeat.ru/product-category/rabbit/#breadcrumb"
+                      },
+                      "inLanguage": "ru-RU",
+                      "potentialAction": [
+                          {
+                              "@type": "ReadAction",
+                              "target": [
+                                  "https://back.lovemeat.ru/product-category/rabbit/"
+                              ]
+                          }
+                      ]
+                  },
+                  {
+                      "@type": "BreadcrumbList",
+                      "@id": "https://back.lovemeat.ru/product-category/rabbit/#breadcrumb",
+                      "itemListElement": [
+                          {
+                              "@type": "ListItem",
+                              "position": 1,
+                              "name": "Главная страница",
+                              "item": "https://back.lovemeat.ru/"
+                          },
+                          {
+                              "@type": "ListItem",
+                              "position": 2,
+                              "name": "Крольчатина"
+                          }
+                      ]
+                  }
+              ]
+          }
+      },
+      "_links": {
+          "self": [
+              {
+                  "href": "https://back.lovemeat.ru/wp-json/wc/v3/products/categories/36"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://back.lovemeat.ru/wp-json/wc/v3/products/categories"
+              }
+          ]
+      }
+  },
+  {
+      "id": 32,
+      "name": "Курица",
+      "slug": "chicken",
+      "parent": 0,
+      "description": "Мясо курицы с доставкой в Москве и Московской области\r\nМясо курицы отличается универсальностью. В кулинарии оно как чистый холст, который можно украшать различными пряностями, приправами, специями. Тысячи разнообразных рецептов предлагают повара с использованием именно этого вида мяса. Главное правило для приготовления – это выбрать качественную птицы.\r\n\r\nДомашние курицы отличаются от тех, что выращены в промышленном масштабе. Отсутствие специальных прикормов позволяет сделать мясо более жирным, ароматным – по-настоящему домашним. Мясная лавка ЛавМит предлагает <strong>купить мясо курицы домашнее</strong>. Сотрудничество с проверенными поставщиками позволяет предоставлять безопасную, экологически чистую продукцию. Контроль осуществляется по признанной системе Меркурий.\r\n\r\nЧтобы <strong>купить мясо птицы домашнее</strong> воспользуйтесь корзиной. Можно выбирать количество в нужном размере. Доставка проводится ежедневно по указанному на сайте графику. Сохранение свежести достигается, благодаря собственному транспорту с возможностью поддерживать необходимый температурный режим. Выбирайте полезное, натуральное мясо курицы, купить которое можно<strong> в Москве</strong> в известной сети LoveMeat.",
+      "display": "default",
+      "image": null,
+      "menu_order": 5,
+      "count": 17,
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v18.6 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Купить мясо курицы с доставкой в Москве и Московской области</title>\n<meta name=\"description\" content=\"Интернет-магазин LoveMeat предлагает купить мясо курицы домашнее. Проверенные поставщики. Натуральная продукция. 100% экологичное мясо\" />\n<meta name=\"robots\" content=\"noindex, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Купить мясо курицы с доставкой в Москве и Московской области\" />\n<meta property=\"og:description\" content=\"Интернет-магазин LoveMeat предлагает купить мясо курицы домашнее. Проверенные поставщики. Натуральная продукция. 100% экологичное мясо\" />\n<meta property=\"og:url\" content=\"https://back.lovemeat.ru/product-category/chicken/\" />\n<meta property=\"og:site_name\" content=\"Интернет-магазин мяса и птицы\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://back.lovemeat.ru/#website\",\"url\":\"https://back.lovemeat.ru/\",\"name\":\"Интернет-магазин мяса и птицы\",\"description\":\"Домашнее мясо\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://back.lovemeat.ru/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"CollectionPage\",\"@id\":\"https://back.lovemeat.ru/product-category/chicken/#webpage\",\"url\":\"https://back.lovemeat.ru/product-category/chicken/\",\"name\":\"Купить мясо курицы с доставкой в Москве и Московской области\",\"isPartOf\":{\"@id\":\"https://back.lovemeat.ru/#website\"},\"description\":\"Интернет-магазин LoveMeat предлагает купить мясо курицы домашнее. Проверенные поставщики. Натуральная продукция. 100% экологичное мясо\",\"breadcrumb\":{\"@id\":\"https://back.lovemeat.ru/product-category/chicken/#breadcrumb\"},\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://back.lovemeat.ru/product-category/chicken/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://back.lovemeat.ru/product-category/chicken/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Главная страница\",\"item\":\"https://back.lovemeat.ru/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Курица\"}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head_json": {
+          "title": "Купить мясо курицы с доставкой в Москве и Московской области",
+          "description": "Интернет-магазин LoveMeat предлагает купить мясо курицы домашнее. Проверенные поставщики. Натуральная продукция. 100% экологичное мясо",
+          "robots": {
+              "index": "noindex",
+              "follow": "follow",
+              "max-snippet": "max-snippet:-1",
+              "max-image-preview": "max-image-preview:large",
+              "max-video-preview": "max-video-preview:-1"
+          },
+          "og_locale": "ru_RU",
+          "og_type": "article",
+          "og_title": "Купить мясо курицы с доставкой в Москве и Московской области",
+          "og_description": "Интернет-магазин LoveMeat предлагает купить мясо курицы домашнее. Проверенные поставщики. Натуральная продукция. 100% экологичное мясо",
+          "og_url": "https://back.lovemeat.ru/product-category/chicken/",
+          "og_site_name": "Интернет-магазин мяса и птицы",
+          "twitter_card": "summary_large_image",
+          "schema": {
+              "@context": "https://schema.org",
+              "@graph": [
+                  {
+                      "@type": "WebSite",
+                      "@id": "https://back.lovemeat.ru/#website",
+                      "url": "https://back.lovemeat.ru/",
+                      "name": "Интернет-магазин мяса и птицы",
+                      "description": "Домашнее мясо",
+                      "potentialAction": [
+                          {
+                              "@type": "SearchAction",
+                              "target": {
+                                  "@type": "EntryPoint",
+                                  "urlTemplate": "https://back.lovemeat.ru/?s={search_term_string}"
+                              },
+                              "query-input": "required name=search_term_string"
+                          }
+                      ],
+                      "inLanguage": "ru-RU"
+                  },
+                  {
+                      "@type": "CollectionPage",
+                      "@id": "https://back.lovemeat.ru/product-category/chicken/#webpage",
+                      "url": "https://back.lovemeat.ru/product-category/chicken/",
+                      "name": "Купить мясо курицы с доставкой в Москве и Московской области",
+                      "isPartOf": {
+                          "@id": "https://back.lovemeat.ru/#website"
+                      },
+                      "description": "Интернет-магазин LoveMeat предлагает купить мясо курицы домашнее. Проверенные поставщики. Натуральная продукция. 100% экологичное мясо",
+                      "breadcrumb": {
+                          "@id": "https://back.lovemeat.ru/product-category/chicken/#breadcrumb"
+                      },
+                      "inLanguage": "ru-RU",
+                      "potentialAction": [
+                          {
+                              "@type": "ReadAction",
+                              "target": [
+                                  "https://back.lovemeat.ru/product-category/chicken/"
+                              ]
+                          }
+                      ]
+                  },
+                  {
+                      "@type": "BreadcrumbList",
+                      "@id": "https://back.lovemeat.ru/product-category/chicken/#breadcrumb",
+                      "itemListElement": [
+                          {
+                              "@type": "ListItem",
+                              "position": 1,
+                              "name": "Главная страница",
+                              "item": "https://back.lovemeat.ru/"
+                          },
+                          {
+                              "@type": "ListItem",
+                              "position": 2,
+                              "name": "Курица"
+                          }
+                      ]
+                  }
+              ]
+          }
+      },
+      "_links": {
+          "self": [
+              {
+                  "href": "https://back.lovemeat.ru/wp-json/wc/v3/products/categories/32"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://back.lovemeat.ru/wp-json/wc/v3/products/categories"
+              }
+          ]
+      }
+  },
+  {
+      "id": 20,
+      "name": "Свинина",
+      "slug": "pork",
+      "parent": 0,
+      "description": "Богатая микроэлементами свинина ценится как мясо, которое легко готовить как в обычные, так и праздничные дни. <strong>Свежее мясо свинины</strong> особенно вкусно, ароматно, прекрасно подходит для жарки на открытом огне. Благодаря значительной жировой прослойки получается особенно сочным, невероятно пахнет. Прекрасно сочетается с маринадами – острыми, сладкими, перченными.\r\n\r\n<strong>LoveMeat</strong> предлагает купить домашнюю свинину, выращенную на проверенных хозяйствах. Мясо прошло многократную проверку на соответствие стандартам пищевой промышленности. Тщательно следят за кормом, чтобы вырастить животное используют только натуральную пищу, без антибиотиков или стимуляторов роста. <strong>Купить домашнюю свинину</strong> можно<strong> в Москве</strong> в нашем интернет-магазине. Вкус домашней продукции значительно отличается от товаров, выпускаемых в промышленном масштабе. Подобное мясо имеет свежесть, экологичность, приносит пользу организму, лучше насыщает.\r\n\r\n<strong>Купить свинину</strong> в ЛавМит <strong>в Москве</strong> по приятной стоимости с доставкой можно в интернет-магазине. Просто добавьте товар в корзину, выберите количество. Заполните контактные данные, удобные условия доставки, оплаты.",
+      "display": "default",
+      "image": null,
+      "menu_order": 4,
+      "count": 13,
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v18.6 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Купить домашнюю свинину с доставкой в Москве и области</title>\n<meta name=\"description\" content=\"Интернет-магазин LoveMeat поставляет только свежее мясо свинины. Гарантируем высокое качество, превосходный вкус. Широкий ассортимент.\" />\n<meta name=\"robots\" content=\"noindex, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Купить домашнюю свинину с доставкой в Москве и области\" />\n<meta property=\"og:description\" content=\"Интернет-магазин LoveMeat поставляет только свежее мясо свинины. Гарантируем высокое качество, превосходный вкус. Широкий ассортимент.\" />\n<meta property=\"og:url\" content=\"https://back.lovemeat.ru/product-category/pork/\" />\n<meta property=\"og:site_name\" content=\"Интернет-магазин мяса и птицы\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://back.lovemeat.ru/#website\",\"url\":\"https://back.lovemeat.ru/\",\"name\":\"Интернет-магазин мяса и птицы\",\"description\":\"Домашнее мясо\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://back.lovemeat.ru/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"CollectionPage\",\"@id\":\"https://back.lovemeat.ru/product-category/pork/#webpage\",\"url\":\"https://back.lovemeat.ru/product-category/pork/\",\"name\":\"Купить домашнюю свинину с доставкой в Москве и области\",\"isPartOf\":{\"@id\":\"https://back.lovemeat.ru/#website\"},\"description\":\"Интернет-магазин LoveMeat поставляет только свежее мясо свинины. Гарантируем высокое качество, превосходный вкус. Широкий ассортимент.\",\"breadcrumb\":{\"@id\":\"https://back.lovemeat.ru/product-category/pork/#breadcrumb\"},\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://back.lovemeat.ru/product-category/pork/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://back.lovemeat.ru/product-category/pork/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Главная страница\",\"item\":\"https://back.lovemeat.ru/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Свинина\"}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head_json": {
+          "title": "Купить домашнюю свинину с доставкой в Москве и области",
+          "description": "Интернет-магазин LoveMeat поставляет только свежее мясо свинины. Гарантируем высокое качество, превосходный вкус. Широкий ассортимент.",
+          "robots": {
+              "index": "noindex",
+              "follow": "follow",
+              "max-snippet": "max-snippet:-1",
+              "max-image-preview": "max-image-preview:large",
+              "max-video-preview": "max-video-preview:-1"
+          },
+          "og_locale": "ru_RU",
+          "og_type": "article",
+          "og_title": "Купить домашнюю свинину с доставкой в Москве и области",
+          "og_description": "Интернет-магазин LoveMeat поставляет только свежее мясо свинины. Гарантируем высокое качество, превосходный вкус. Широкий ассортимент.",
+          "og_url": "https://back.lovemeat.ru/product-category/pork/",
+          "og_site_name": "Интернет-магазин мяса и птицы",
+          "twitter_card": "summary_large_image",
+          "schema": {
+              "@context": "https://schema.org",
+              "@graph": [
+                  {
+                      "@type": "WebSite",
+                      "@id": "https://back.lovemeat.ru/#website",
+                      "url": "https://back.lovemeat.ru/",
+                      "name": "Интернет-магазин мяса и птицы",
+                      "description": "Домашнее мясо",
+                      "potentialAction": [
+                          {
+                              "@type": "SearchAction",
+                              "target": {
+                                  "@type": "EntryPoint",
+                                  "urlTemplate": "https://back.lovemeat.ru/?s={search_term_string}"
+                              },
+                              "query-input": "required name=search_term_string"
+                          }
+                      ],
+                      "inLanguage": "ru-RU"
+                  },
+                  {
+                      "@type": "CollectionPage",
+                      "@id": "https://back.lovemeat.ru/product-category/pork/#webpage",
+                      "url": "https://back.lovemeat.ru/product-category/pork/",
+                      "name": "Купить домашнюю свинину с доставкой в Москве и области",
+                      "isPartOf": {
+                          "@id": "https://back.lovemeat.ru/#website"
+                      },
+                      "description": "Интернет-магазин LoveMeat поставляет только свежее мясо свинины. Гарантируем высокое качество, превосходный вкус. Широкий ассортимент.",
+                      "breadcrumb": {
+                          "@id": "https://back.lovemeat.ru/product-category/pork/#breadcrumb"
+                      },
+                      "inLanguage": "ru-RU",
+                      "potentialAction": [
+                          {
+                              "@type": "ReadAction",
+                              "target": [
+                                  "https://back.lovemeat.ru/product-category/pork/"
+                              ]
+                          }
+                      ]
+                  },
+                  {
+                      "@type": "BreadcrumbList",
+                      "@id": "https://back.lovemeat.ru/product-category/pork/#breadcrumb",
+                      "itemListElement": [
+                          {
+                              "@type": "ListItem",
+                              "position": 1,
+                              "name": "Главная страница",
+                              "item": "https://back.lovemeat.ru/"
+                          },
+                          {
+                              "@type": "ListItem",
+                              "position": 2,
+                              "name": "Свинина"
+                          }
+                      ]
+                  }
+              ]
+          }
+      },
+      "_links": {
+          "self": [
+              {
+                  "href": "https://back.lovemeat.ru/wp-json/wc/v3/products/categories/20"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://back.lovemeat.ru/wp-json/wc/v3/products/categories"
+              }
+          ]
+      }
+  },
+  {
+      "id": 30,
+      "name": "Телятина",
+      "slug": "veal",
+      "parent": 0,
+      "description": "<strong>LoveMeat</strong> предлагает<strong> купить телятину</strong> с доставкой <strong>в Москве</strong>. Премиум качество, натуральность, соответствие безопасности. Превосходный вкус, аромат. Широкий ассортимент, удобные условия заказа.\r\nТелятина с доставкой<strong> в Москве</strong> и Московской области\r\nНевероятной нежностью, богатством вкусовой палитры отличается телятина. Тонкая прослойка жира отличает вид мяса, возводя его в ранг деликатесов. Мягкость, но при этом узнаваемая мясная текстура привлекает гурманов и ценителей высокого качества. В нашем ассортименте представлена превосходная телятина купить, которую можно в нашем интернет-магазине в Москве. Обеспечиваем строгий контроль на всех этапах от поставки до транспортировки. Гарантируем свежесть, натуральность продукции.\r\n\r\nВ каталоге представлены различные части телятины. Отборная вырезка превосходно подходит для создания настоящих кулинарных произведений – миньонов, стейков. Сочный фарш среднего помола – практичное решение, чтобы приготовить быстро любимые мясные блюда. Гуляш, отличающийся более плотной текстурой, впечатляет гранями вкуса, аромата. В ассортименте представлены ребрышки, мякоть, лопатка, шейка.\r\n\r\nВ каталоге указана цена телятины, без учета доставки в Москве, Московской области. Доставим в указанное время в рабочие часы по графику. Используем собственный транспорт, оборудованный системой регулировки температурного режима, что позволяет сохранять свежесть заказанной продукции.",
+      "display": "default",
+      "image": null,
+      "menu_order": 2,
+      "count": 10,
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v18.6 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Купить телятину с доставкой в Москве и Московской области</title>\n<meta name=\"description\" content=\"LoveMeat предлагает купить телятину с доставкой в Москве. Премиум качество, натуральность, соответствие безопасности. Превосходный вкус, аромат.\" />\n<meta name=\"robots\" content=\"noindex, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Купить телятину с доставкой в Москве и Московской области\" />\n<meta property=\"og:description\" content=\"LoveMeat предлагает купить телятину с доставкой в Москве. Премиум качество, натуральность, соответствие безопасности. Превосходный вкус, аромат.\" />\n<meta property=\"og:url\" content=\"https://back.lovemeat.ru/product-category/veal/\" />\n<meta property=\"og:site_name\" content=\"Интернет-магазин мяса и птицы\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://back.lovemeat.ru/#website\",\"url\":\"https://back.lovemeat.ru/\",\"name\":\"Интернет-магазин мяса и птицы\",\"description\":\"Домашнее мясо\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://back.lovemeat.ru/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"CollectionPage\",\"@id\":\"https://back.lovemeat.ru/product-category/veal/#webpage\",\"url\":\"https://back.lovemeat.ru/product-category/veal/\",\"name\":\"Купить телятину с доставкой в Москве и Московской области\",\"isPartOf\":{\"@id\":\"https://back.lovemeat.ru/#website\"},\"description\":\"LoveMeat предлагает купить телятину с доставкой в Москве. Премиум качество, натуральность, соответствие безопасности. Превосходный вкус, аромат.\",\"breadcrumb\":{\"@id\":\"https://back.lovemeat.ru/product-category/veal/#breadcrumb\"},\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://back.lovemeat.ru/product-category/veal/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://back.lovemeat.ru/product-category/veal/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Главная страница\",\"item\":\"https://back.lovemeat.ru/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Телятина\"}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head_json": {
+          "title": "Купить телятину с доставкой в Москве и Московской области",
+          "description": "LoveMeat предлагает купить телятину с доставкой в Москве. Премиум качество, натуральность, соответствие безопасности. Превосходный вкус, аромат.",
+          "robots": {
+              "index": "noindex",
+              "follow": "follow",
+              "max-snippet": "max-snippet:-1",
+              "max-image-preview": "max-image-preview:large",
+              "max-video-preview": "max-video-preview:-1"
+          },
+          "og_locale": "ru_RU",
+          "og_type": "article",
+          "og_title": "Купить телятину с доставкой в Москве и Московской области",
+          "og_description": "LoveMeat предлагает купить телятину с доставкой в Москве. Премиум качество, натуральность, соответствие безопасности. Превосходный вкус, аромат.",
+          "og_url": "https://back.lovemeat.ru/product-category/veal/",
+          "og_site_name": "Интернет-магазин мяса и птицы",
+          "twitter_card": "summary_large_image",
+          "schema": {
+              "@context": "https://schema.org",
+              "@graph": [
+                  {
+                      "@type": "WebSite",
+                      "@id": "https://back.lovemeat.ru/#website",
+                      "url": "https://back.lovemeat.ru/",
+                      "name": "Интернет-магазин мяса и птицы",
+                      "description": "Домашнее мясо",
+                      "potentialAction": [
+                          {
+                              "@type": "SearchAction",
+                              "target": {
+                                  "@type": "EntryPoint",
+                                  "urlTemplate": "https://back.lovemeat.ru/?s={search_term_string}"
+                              },
+                              "query-input": "required name=search_term_string"
+                          }
+                      ],
+                      "inLanguage": "ru-RU"
+                  },
+                  {
+                      "@type": "CollectionPage",
+                      "@id": "https://back.lovemeat.ru/product-category/veal/#webpage",
+                      "url": "https://back.lovemeat.ru/product-category/veal/",
+                      "name": "Купить телятину с доставкой в Москве и Московской области",
+                      "isPartOf": {
+                          "@id": "https://back.lovemeat.ru/#website"
+                      },
+                      "description": "LoveMeat предлагает купить телятину с доставкой в Москве. Премиум качество, натуральность, соответствие безопасности. Превосходный вкус, аромат.",
+                      "breadcrumb": {
+                          "@id": "https://back.lovemeat.ru/product-category/veal/#breadcrumb"
+                      },
+                      "inLanguage": "ru-RU",
+                      "potentialAction": [
+                          {
+                              "@type": "ReadAction",
+                              "target": [
+                                  "https://back.lovemeat.ru/product-category/veal/"
+                              ]
+                          }
+                      ]
+                  },
+                  {
+                      "@type": "BreadcrumbList",
+                      "@id": "https://back.lovemeat.ru/product-category/veal/#breadcrumb",
+                      "itemListElement": [
+                          {
+                              "@type": "ListItem",
+                              "position": 1,
+                              "name": "Главная страница",
+                              "item": "https://back.lovemeat.ru/"
+                          },
+                          {
+                              "@type": "ListItem",
+                              "position": 2,
+                              "name": "Телятина"
+                          }
+                      ]
+                  }
+              ]
+          }
+      },
+      "_links": {
+          "self": [
+              {
+                  "href": "https://back.lovemeat.ru/wp-json/wc/v3/products/categories/30"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://back.lovemeat.ru/wp-json/wc/v3/products/categories"
+              }
+          ]
+      }
+  },
+  {
+      "id": 34,
+      "name": "Утка",
+      "slug": "utka",
+      "parent": 0,
+      "description": "Мясо утки с доставкой в Москве и Московской области\r\nСтатус самой изысканной и утонченной по вкусу птицы принадлежит утке. Испокон времен утиное мясо ассоциировалось с лоском, роскошью, богатством. Его всегда красиво подавали с необычными кисло-сладкими соусами. Подобные приемы пищи вызывали чувство восторга, удивления. Они запоминались надолго, а вкусившие хоть раз столь благородную пищу, хотели вновь повторить ощущения. Сегодня достаточно <strong>купить мясо утки</strong>, выращенной на домашних хозяйствах, чтобы отведать по-настоящему королевское блюдо.\r\n\r\nИнтернет-магазин LoveMeat сотрудничает с лучшими поставщиками, которые бережно занимаются любимым делом и выращивают животных в практически естественных, природных условиях. При этом соблюдаются нормы, связанные с обеспечением здоровья ветеринарами. Отсутствие кормов с гормонами, влияющими на рост, благоприятно сказывается на качестве птицы. Подобное мясо отличается по вкусовым характеристикам – оно нежнее, легче готовится и сохраняет полезные свойства. Все это наталкивает на мысль <strong>купить домашнюю утку</strong>, нежели из обычного супермаркета.\r\n\r\nДругим преимуществом <strong>купить утку домашнюю</strong> является соблюдение норм хранения. Сотрудники тщательно контролируют качество, свежесть продукции на всех этапах производства, начиная с приема, заканчивая доставкой. Кстати, купить мясо утки в интернет-магазине LoveMeat <strong>в Москве</strong> и Московской области можно с доставкой по указанному адресу. Курьеры привезут выбранные товары своевременно.",
+      "display": "default",
+      "image": null,
+      "menu_order": 7,
+      "count": 5,
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v18.6 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Купить мясо утки с доставкой в Москве и Московской области</title>\n<meta name=\"description\" content=\"Купить мясо утки в мясной лавке LoveMeat в Москве можно с удобной доставкой. Гарантируем свежесть, высокое качество. Премиум домашнее мясо.\" />\n<meta name=\"robots\" content=\"noindex, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Купить мясо утки с доставкой в Москве и Московской области\" />\n<meta property=\"og:description\" content=\"Купить мясо утки в мясной лавке LoveMeat в Москве можно с удобной доставкой. Гарантируем свежесть, высокое качество. Премиум домашнее мясо.\" />\n<meta property=\"og:url\" content=\"https://back.lovemeat.ru/product-category/utka/\" />\n<meta property=\"og:site_name\" content=\"Интернет-магазин мяса и птицы\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://back.lovemeat.ru/#website\",\"url\":\"https://back.lovemeat.ru/\",\"name\":\"Интернет-магазин мяса и птицы\",\"description\":\"Домашнее мясо\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://back.lovemeat.ru/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"CollectionPage\",\"@id\":\"https://back.lovemeat.ru/product-category/utka/#webpage\",\"url\":\"https://back.lovemeat.ru/product-category/utka/\",\"name\":\"Купить мясо утки с доставкой в Москве и Московской области\",\"isPartOf\":{\"@id\":\"https://back.lovemeat.ru/#website\"},\"description\":\"Купить мясо утки в мясной лавке LoveMeat в Москве можно с удобной доставкой. Гарантируем свежесть, высокое качество. Премиум домашнее мясо.\",\"breadcrumb\":{\"@id\":\"https://back.lovemeat.ru/product-category/utka/#breadcrumb\"},\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://back.lovemeat.ru/product-category/utka/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://back.lovemeat.ru/product-category/utka/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Главная страница\",\"item\":\"https://back.lovemeat.ru/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Утка\"}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head_json": {
+          "title": "Купить мясо утки с доставкой в Москве и Московской области",
+          "description": "Купить мясо утки в мясной лавке LoveMeat в Москве можно с удобной доставкой. Гарантируем свежесть, высокое качество. Премиум домашнее мясо.",
+          "robots": {
+              "index": "noindex",
+              "follow": "follow",
+              "max-snippet": "max-snippet:-1",
+              "max-image-preview": "max-image-preview:large",
+              "max-video-preview": "max-video-preview:-1"
+          },
+          "og_locale": "ru_RU",
+          "og_type": "article",
+          "og_title": "Купить мясо утки с доставкой в Москве и Московской области",
+          "og_description": "Купить мясо утки в мясной лавке LoveMeat в Москве можно с удобной доставкой. Гарантируем свежесть, высокое качество. Премиум домашнее мясо.",
+          "og_url": "https://back.lovemeat.ru/product-category/utka/",
+          "og_site_name": "Интернет-магазин мяса и птицы",
+          "twitter_card": "summary_large_image",
+          "schema": {
+              "@context": "https://schema.org",
+              "@graph": [
+                  {
+                      "@type": "WebSite",
+                      "@id": "https://back.lovemeat.ru/#website",
+                      "url": "https://back.lovemeat.ru/",
+                      "name": "Интернет-магазин мяса и птицы",
+                      "description": "Домашнее мясо",
+                      "potentialAction": [
+                          {
+                              "@type": "SearchAction",
+                              "target": {
+                                  "@type": "EntryPoint",
+                                  "urlTemplate": "https://back.lovemeat.ru/?s={search_term_string}"
+                              },
+                              "query-input": "required name=search_term_string"
+                          }
+                      ],
+                      "inLanguage": "ru-RU"
+                  },
+                  {
+                      "@type": "CollectionPage",
+                      "@id": "https://back.lovemeat.ru/product-category/utka/#webpage",
+                      "url": "https://back.lovemeat.ru/product-category/utka/",
+                      "name": "Купить мясо утки с доставкой в Москве и Московской области",
+                      "isPartOf": {
+                          "@id": "https://back.lovemeat.ru/#website"
+                      },
+                      "description": "Купить мясо утки в мясной лавке LoveMeat в Москве можно с удобной доставкой. Гарантируем свежесть, высокое качество. Премиум домашнее мясо.",
+                      "breadcrumb": {
+                          "@id": "https://back.lovemeat.ru/product-category/utka/#breadcrumb"
+                      },
+                      "inLanguage": "ru-RU",
+                      "potentialAction": [
+                          {
+                              "@type": "ReadAction",
+                              "target": [
+                                  "https://back.lovemeat.ru/product-category/utka/"
+                              ]
+                          }
+                      ]
+                  },
+                  {
+                      "@type": "BreadcrumbList",
+                      "@id": "https://back.lovemeat.ru/product-category/utka/#breadcrumb",
+                      "itemListElement": [
+                          {
+                              "@type": "ListItem",
+                              "position": 1,
+                              "name": "Главная страница",
+                              "item": "https://back.lovemeat.ru/"
+                          },
+                          {
+                              "@type": "ListItem",
+                              "position": 2,
+                              "name": "Утка"
+                          }
+                      ]
+                  }
+              ]
+          }
+      },
+      "_links": {
+          "self": [
+              {
+                  "href": "https://back.lovemeat.ru/wp-json/wc/v3/products/categories/34"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://back.lovemeat.ru/wp-json/wc/v3/products/categories"
+              }
+          ]
+      }
+  }
+]

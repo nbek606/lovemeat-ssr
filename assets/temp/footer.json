@@ -1,0 +1,110 @@
+{
+  "first": [
+    {
+      "title": "Говядина",
+      "url": {
+        "slug": "beef",
+        "name": "Category"
+      }
+    },
+    {
+      "title": "Телятина",
+      "url": {
+        "slug": "veal",
+        "name": "Category"
+      }
+    },
+    {
+      "title": "Баранина",
+      "url": {
+        "slug": "lamb",
+        "name": "Category"
+      }
+    }
+  ],
+  "second": [
+    {
+      "title": "Свинина",
+      "url": {
+        "slug": "pork",
+        "name": "Category"
+      }
+    },
+    {
+      "title": "Курятина",
+      "url": {
+        "slug": "chicken",
+        "name": "Category"
+      }
+    },
+    {
+      "title": "Индейка",
+      "url": {
+        "slug": "turkey",
+        "name": "Category"
+      }
+    }
+  ],
+  "thrid": [
+    {
+      "title": "Утка",
+      "url": {
+        "slug": "utka",
+        "name": "Category"
+      }
+    },
+    {
+      "title": "Крольчатина",
+      "url": {
+        "slug": "rabbit",
+        "name": "Category"
+      }
+    }
+  ],
+  "fourth": [
+    {
+      "title": "Оплата и доставка",
+      "url": {
+        "name": "PaymentDelivery"
+      }
+    },
+    {
+      "title": "Качества мяса",
+      "url": {
+        "name": "Quality"
+      }
+    },
+    {
+      "title": "О нас",
+      "url": { 
+        "name": "About"
+      }
+    },
+    {
+      "title": "Рецепты",
+      "url": {
+        "name": "Recipes"
+      }
+    }
+  ],
+  "fifth": [
+    {
+      "title": "Отзывы",
+      "url": { 
+        "name": "Reviews"
+      }
+    },
+    {
+      "title": "Блог",
+      "url": { 
+        "name": "Blog"
+      }
+    },
+    {
+      "title": "Контакты",
+      "url": {
+        "name": "Contacts"
+      }
+    }
+  ]
+}

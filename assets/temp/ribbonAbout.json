@@ -1,0 +1,47 @@
+{
+  
+  "afterBeef" : [
+    {
+      "icon": "ham",
+      "text": "Мы продаем полезное <br/> домашнее мясо с 1993 года"
+    },
+    {
+      "icon": "ruble",
+      "text": "Вернем деньги, <br/> если качество не устроит"
+    },
+    {
+      "icon": "no-antibiotics",
+      "text": "Мясо без антибиотиков <br/> и гармонов"
+    }
+  ],
+
+  "afterBaranina" : [
+    {
+      "icon": "delivery-truck",
+      "text": "Бесплатная доставка <br/>от <strong>3000</strong> руб."
+    },
+    {
+      "icon": "healthy-food",
+      "text": "Наши продукты - залог правильного <br/> и здорового питания"
+    },
+    {
+      "icon": "certificate",
+      "text": "Наличие ветеринарных <br/> свидетельств"
+    }
+  ],
+
+  "afterProductItem" : [
+    {
+      "icon": "delivery-truck",
+      "text": "Бесплатная доставка <br/>от <strong>3000</strong> руб."
+    },
+    {
+      "icon": "healthy-food",
+      "text": "Наши продукты - залог правильного <br/> и здорового питания"
+    },
+    {
+      "icon": "certificate",
+      "text": "Наличие ветеринарных <br/> свидетельств"
+    }
+  ]
+}

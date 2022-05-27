@@ -1,0 +1,29 @@
+{
+  "phone": {
+    "title": "+7 (967) 018-37-77",
+    "icon": "phone",
+    "name": "phone",
+    "url": "tel:<+7(967)018-37-77>"
+  },
+  "whatsapp": {
+    "title": "+7 (967) 018-37-77",
+    "icon": "whatsapp",
+    "name": "whatsapp",
+    "url": "https://api.whatsapp.com/send/?phone=+7(967)018-37-77"
+  },
+  "instagram": {
+    "url": "https://www.instagram.com/lovemeat.ru/?utm_medium=copy_link",
+    "icon": "instagram",
+    "name": "instagram"
+  },
+  "vk": {
+    "url": "https://vk.com/lovemeatmsk",
+    "icon": "vkontakte",
+    "name": "instagram"
+  },
+  "telegram": {
+    "url": "https://t.me/krylatskoemeat",
+    "icon": "telegram",
+    "name": "instagram"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "pending": "Ожидается оплата",
+  "processing": "Обработка",
+  "shipped": "В пути",
+  "on-hold": "На удержании",
+  "completed": "Выполнен",
+  "cancelled": "Отменен",
+  "refunded": "Возвращён",
+  "failed": "Не удался",
+  "cancel-request": "Запрос на отмену"
+}

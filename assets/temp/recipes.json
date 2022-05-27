@@ -1,0 +1,176 @@
+{
+  "item":  {
+    "id": 248,
+    "date": "2022-04-12T21:25:32",
+    "date_gmt": "2022-04-12T18:25:32",
+    "guid": {
+        "rendered": "http://back.lovemeat.ru/?page_id=248"
+    },
+    "modified": "2022-04-13T21:03:15",
+    "modified_gmt": "2022-04-13T18:03:15",
+    "slug": "receipes",
+    "status": "publish",
+    "type": "page",
+    "link": "https://back.lovemeat.ru/receipes/",
+    "title": {
+        "rendered": "Рецепты"
+    },
+    "content": {
+        "rendered": "",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v18.6 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Рецепты блюд из домашнего мяса и птицы</title>\n<meta name=\"description\" content=\"Проверенные рецепты от Lovemeat - интернет-магазина домашнего мяса и птицы. Наслаждайтесь вкусными и полезными продуктами!\" />\n<meta name=\"robots\" content=\"noindex, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<meta property=\"og:locale\" content=\"ru_RU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Рецепты блюд из домашнего мяса и птицы\" />\n<meta property=\"og:description\" content=\"Проверенные рецепты от Lovemeat - интернет-магазина домашнего мяса и птицы. Наслаждайтесь вкусными и полезными продуктами!\" />\n<meta property=\"og:url\" content=\"https://back.lovemeat.ru/receipes/\" />\n<meta property=\"og:site_name\" content=\"Интернет-магазин мяса и птицы\" />\n<meta property=\"article:modified_time\" content=\"2022-04-13T18:03:15+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://back.lovemeat.ru/#website\",\"url\":\"https://back.lovemeat.ru/\",\"name\":\"Интернет-магазин мяса и птицы\",\"description\":\"Домашнее мясо\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://back.lovemeat.ru/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"ru-RU\"},{\"@type\":\"WebPage\",\"@id\":\"https://back.lovemeat.ru/receipes/#webpage\",\"url\":\"https://back.lovemeat.ru/receipes/\",\"name\":\"Рецепты блюд из домашнего мяса и птицы\",\"isPartOf\":{\"@id\":\"https://back.lovemeat.ru/#website\"},\"datePublished\":\"2022-04-12T18:25:32+00:00\",\"dateModified\":\"2022-04-13T18:03:15+00:00\",\"description\":\"Проверенные рецепты от Lovemeat - интернет-магазина домашнего мяса и птицы. Наслаждайтесь вкусными и полезными продуктами!\",\"breadcrumb\":{\"@id\":\"https://back.lovemeat.ru/receipes/#breadcrumb\"},\"inLanguage\":\"ru-RU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://back.lovemeat.ru/receipes/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://back.lovemeat.ru/receipes/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Главная страница\",\"item\":\"https://back.lovemeat.ru/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Рецепты\"}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+        "title": "Рецепты блюд из домашнего мяса и птицы",
+        "description": "Проверенные рецепты от Lovemeat - интернет-магазина домашнего мяса и птицы. Наслаждайтесь вкусными и полезными продуктами!",
+        "robots": {
+            "index": "noindex",
+            "follow": "follow",
+            "max-snippet": "max-snippet:-1",
+            "max-image-preview": "max-image-preview:large",
+            "max-video-preview": "max-video-preview:-1"
+        },
+        "og_locale": "ru_RU",
+        "og_type": "article",
+        "og_title": "Рецепты блюд из домашнего мяса и птицы",
+        "og_description": "Проверенные рецепты от Lovemeat - интернет-магазина домашнего мяса и птицы. Наслаждайтесь вкусными и полезными продуктами!",
+        "og_url": "https://back.lovemeat.ru/receipes/",
+        "og_site_name": "Интернет-магазин мяса и птицы",
+        "article_modified_time": "2022-04-13T18:03:15+00:00",
+        "twitter_card": "summary_large_image",
+        "schema": {
+            "@context": "https://schema.org",
+            "@graph": [
+                {
+                    "@type": "WebSite",
+                    "@id": "https://back.lovemeat.ru/#website",
+                    "url": "https://back.lovemeat.ru/",
+                    "name": "Интернет-магазин мяса и птицы",
+                    "description": "Домашнее мясо",
+                    "potentialAction": [
+                        {
+                            "@type": "SearchAction",
+                            "target": {
+                                "@type": "EntryPoint",
+                                "urlTemplate": "https://back.lovemeat.ru/?s={search_term_string}"
+                            },
+                            "query-input": "required name=search_term_string"
+                        }
+                    ],
+                    "inLanguage": "ru-RU"
+                },
+                {
+                    "@type": "WebPage",
+                    "@id": "https://back.lovemeat.ru/receipes/#webpage",
+                    "url": "https://back.lovemeat.ru/receipes/",
+                    "name": "Рецепты блюд из домашнего мяса и птицы",
+                    "isPartOf": {
+                        "@id": "https://back.lovemeat.ru/#website"
+                    },
+                    "datePublished": "2022-04-12T18:25:32+00:00",
+                    "dateModified": "2022-04-13T18:03:15+00:00",
+                    "description": "Проверенные рецепты от Lovemeat - интернет-магазина домашнего мяса и птицы. Наслаждайтесь вкусными и полезными продуктами!",
+                    "breadcrumb": {
+                        "@id": "https://back.lovemeat.ru/receipes/#breadcrumb"
+                    },
+                    "inLanguage": "ru-RU",
+                    "potentialAction": [
+                        {
+                            "@type": "ReadAction",
+                            "target": [
+                                "https://back.lovemeat.ru/receipes/"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@type": "BreadcrumbList",
+                    "@id": "https://back.lovemeat.ru/receipes/#breadcrumb",
+                    "itemListElement": [
+                        {
+                            "@type": "ListItem",
+                            "position": 1,
+                            "name": "Главная страница",
+                            "item": "https://back.lovemeat.ru/"
+                        },
+                        {
+                            "@type": "ListItem",
+                            "position": 2,
+                            "name": "Рецепты"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "_links": {
+        "self": [
+            {
+                "href": "https://back.lovemeat.ru/wp-json/wp/v2/pages/248"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://back.lovemeat.ru/wp-json/wp/v2/pages"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://back.lovemeat.ru/wp-json/wp/v2/types/page"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://back.lovemeat.ru/wp-json/wp/v2/users/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://back.lovemeat.ru/wp-json/wp/v2/comments?post=248"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 1,
+                "href": "https://back.lovemeat.ru/wp-json/wp/v2/pages/248/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 249,
+                "href": "https://back.lovemeat.ru/wp-json/wp/v2/pages/248/revisions/249"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https://back.lovemeat.ru/wp-json/wp/v2/media?parent=248"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }
+        ]
+    }
+  },
+
+  "list": [
+    
+  ]
+} 

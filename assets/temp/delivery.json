@@ -1,0 +1,14 @@
+{
+  "price": "350",
+  "freeLimit": "3000",
+  "methods": {
+    "flat_rate": {
+      "id": "flat_rate",
+      "title": "Единая ставка"
+    },
+    "free_shipping": {
+      "id": "flat_rate",
+      "title": "Бесплатная доставка"
+    }
+  }
+}
