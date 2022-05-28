@@ -141,7 +141,7 @@
             class="collections_description"
             id="collections_description"
           >
-            <div v-html="category.description" />
+        
           </div>
       </div>
       <!--виджеты-->
