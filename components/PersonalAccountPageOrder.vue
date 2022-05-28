@@ -349,7 +349,7 @@ export default {
 
           &-close {
             display: flex;
-            justify-content: end;
+            justify-content: flex-end;
             padding-bottom: 10px;
 
             span {
