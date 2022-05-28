@@ -204,7 +204,6 @@ export default {
       this.$store.dispatch('removeProductInCartList', item)
     },
     sendCheckout () {
-      console.log(this.$router.options)
       this.$router.push({
         name: RouteName.Checkout
       })

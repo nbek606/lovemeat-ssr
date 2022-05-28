@@ -30,7 +30,6 @@ const getXmlFile  = (url, categoryList) => {
       })
 
       list['urlset']['url'] =  list['urlset']['url'].filter(item => !removeUrl.includes(item.loc[0]))
-      console.log(list)
 
       list = getXmlCategories(categoryList, list)
 

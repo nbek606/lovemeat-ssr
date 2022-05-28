@@ -1,5 +1,5 @@
 <template>
-  <div class="home">
+  <div class="home home_test">
     <!--Баннер-->
     <HomeBanner />
     <!--Категория-->  
@@ -38,6 +38,7 @@ import BasePage from '@/components/BasePage.vue'
 import { mapGetters } from 'vuex'
 
 export default {
+  name: 'index',
   components: {
     HomeBanner,
     HomeProductByCategoryList,
@@ -92,7 +93,7 @@ export default {
   methods: {
     getList () {
       const slug = 'hit'
-      console.log(this.getGlobalProduct.length)
+  
       if (this.getGlobalProduct.length > 0) {
           this.list = this.$productService.cloneArray(this.getGlobalProduct)
       } 

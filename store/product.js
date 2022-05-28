@@ -33,7 +33,6 @@ const actions = {
   },
 
   globalProduct({ commit }, payload) {
-    console.log(payload)
     commit('setGlobalProduct', payload)
   },
 

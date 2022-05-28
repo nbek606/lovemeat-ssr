@@ -17,8 +17,6 @@ const addresProperties = (address) => {
   df = df != '' && df != undefined ? df.split('код домофона:')[1].split(' ')[1] : ''
   pd = pd != '' && pd != undefined ? pd.split('подъезд №:')[1].split(' ')[1] : ''
 
-  console.log(kv, etzh, df, pd)
-
   return {
     kv: kv,
     etzh: etzh,
