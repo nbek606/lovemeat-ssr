@@ -1,0 +1,10 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteCond %{HTTP:Authorization} ^(.*)
+  RewriteRule ^(.*) - [E=HTTP_AUTHORIZATION:%1]
+  RewriteRule index\.html$ - [L]
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule . index.html [L]
+  SetEnv HTTPS on
+</IfModule>

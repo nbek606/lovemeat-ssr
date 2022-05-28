@@ -394,12 +394,12 @@ export default {
     },
 
     addCart () {
-      this.$store.dispatch('cartProductList', {
+      this.$store.dispatch('cart/cartProductList', {
         sum: +this.allSum,
         weight: +this.weight,
         product: this.product,
       }).then(() => {
-         this.$store.dispatch('modalAddCart', true)
+         this.$store.dispatch('modal/modalAddCart', true)
       })
     },
 

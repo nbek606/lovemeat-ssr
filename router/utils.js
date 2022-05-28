@@ -1,5 +1,5 @@
 export const RouteName = {
-  Home: 'global',
+  Home: 'index',
   Product: 'product-slug',
   CollectionByCategory: 'product-category-slug',
   Cart: 'cart',

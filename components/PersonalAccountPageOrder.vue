@@ -298,7 +298,7 @@ export default {
         if (response.data) {
           
           if (cartType == 'clear') {
-            this.$store.dispatch('clearProductCartList')
+            this.$store.dispatch('cart/clearProductCartList')
           }
 
           response.data.forEach((item) => {
@@ -307,7 +307,7 @@ export default {
               weight: quantities[item.id],
               sum:  quantities[item.id] * item.price
             }
-            this.$store.dispatch('cartProductList', data)
+            this.$store.dispatch('cart/cartProductList', data)
           })
 
           this.$nextTick(() => { 

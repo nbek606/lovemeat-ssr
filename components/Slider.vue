@@ -16,7 +16,7 @@
             @click="changePrevNext(index, 'prev')"
           >
             <span class="material-icons">
-              arrow_forward_ios
+             navigate_next
             </span>
           </div>
           <div 
@@ -24,7 +24,7 @@
             @click="changePrevNext(index, 'next')"
           >
             <span class="material-icons">
-              arrow_forward_ios
+              navigate_next
             </span>
           </div>
         </div>
@@ -239,8 +239,7 @@ export default {
 
         span {
           font-weight: 500;
-          font-size: 25px;
-          max-width: 30px;
+          font-size: 45px;
         }
       }
 

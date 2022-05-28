@@ -188,7 +188,7 @@ export default {
     searchText: {
       handler (val){
         if (val) {
-          this.$store.dispatch('searchText', this.searchText)
+          this.$store.dispatch('search/searchText', this.searchText)
         }
       }
     }
@@ -205,7 +205,7 @@ export default {
     },
 
     sendSearchPage () {
-      this.$store.dispatch('searchText', this.searchText)
+      this.$store.dispatch('search/searchText', this.searchText)
       
       if (this.$route.name != RouteName.Search) { 
         this.$router.push({
@@ -257,6 +257,7 @@ export default {
 <style lang="scss" scoped>
   .header_mobile {
     position: fixed;
+    width: 100px;
     width: 100%;
     height: 60px;
     background-color: #ce252b;
@@ -368,7 +369,7 @@ export default {
       display: flex;
       width: 100%;
       padding: 0 10px;
-      width: calc(100% - 20px);
+       box-sizing: border-box;
     }
     
     .right {
@@ -472,12 +473,13 @@ export default {
   .search_mobile-block {
     max-height: 0;
     overflow: hidden;
-    width: calc(100% - 20px);
+    width: 100%; 
     box-sizing: border-box;
     position: absolute;
     transition: max-height 0.3s ease-out;
     background-color: #ce252b;
     z-index: 12;
+    padding: 0 10px;
 
     &-active {
       display: block !important;
@@ -505,7 +507,7 @@ export default {
       right: 0;
       top: 0;
       margin-top: 15px;
-      margin-right: 5px;
+      margin-right: 15px;
       font-size: 30px;
       cursor: pointer;
     }

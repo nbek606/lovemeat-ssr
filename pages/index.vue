@@ -1,5 +1,5 @@
 <template>
-  <div class="home home_test">
+  <div class="home">
     <!--Баннер-->
     <HomeBanner />
     <!--Категория-->  

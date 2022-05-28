@@ -77,6 +77,7 @@ export default {
     align-items: center;
     z-index: 19;
     transition: 0.7s;
+    top: 0;
   }
 
   .add_cart {

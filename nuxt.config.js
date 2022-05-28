@@ -1,7 +1,5 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
-  generate: { fallback: true },
-  generate: { fallback: '404.html' },
   head: {
     title: 'Интернет-магазин мяса и птицы',
     htmlAttrs: {
@@ -52,17 +50,7 @@ export default {
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
   ],
-
-  router: {
-    extendRoutes(routes, resolve) {
-      routes.push({
-        name: 'global',
-        path: '/',
-        component: resolve(__dirname, '@/pages/global/index.vue')
-      })
-    }
-  },
-
+  
   styleResources: {
     scss: ['@/assets/scss/main.scss']
   },

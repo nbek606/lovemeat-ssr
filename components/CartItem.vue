@@ -184,7 +184,7 @@ export default {
         sinfulness = sinfulness * 10      
       }
 
-      this.$store.dispatch('cartProductList', {
+      this.$store.dispatch('cart/cartProductList', {
         sum: +this.allSum(sinfulness, item),
         weight: +sinfulness,
         product: item,
@@ -201,7 +201,7 @@ export default {
       return item.selected_volume * 1000 <= Number(this.$productService.getMinMaxWeight(item).min.value)
     },
     removeInCart(item) {
-      this.$store.dispatch('removeProductInCartList', item)
+      this.$store.dispatch('cart/removeProductInCartList', item)
     },
     sendCheckout () {
       this.$router.push({

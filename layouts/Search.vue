@@ -31,7 +31,7 @@ export default {
   },
   computed: {
     ...mapGetters({
-      loader: 'getSearchLoader'
+      loader: 'search/getSearchLoader'
     })
   },
   watch: {
