@@ -6,7 +6,6 @@
       
       <div class="content_layout">
         <div class="collections_breadcrumbs">
-          edit
           <Breadcrumbs 
             :list="breadcrumbs()"
           />
