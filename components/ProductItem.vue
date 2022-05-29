@@ -399,7 +399,7 @@ export default {
         weight: +this.weight,
         product: this.product,
       }).then(() => {
-         this.$store.dispatch('modal/modalAddCart', true)
+         this.$store.dispatch('cart/modalAddCart', true)
       })
     },
 
