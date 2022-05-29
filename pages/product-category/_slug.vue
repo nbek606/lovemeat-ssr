@@ -124,7 +124,7 @@
             />
             
             <div
-              v-if="productList.length == 0 && !productLoader"
+              v-if="productList.length == 0 && !productLoader && productList != undefined"
               class="collections_empty"
               >
               Количество товаров: 0
