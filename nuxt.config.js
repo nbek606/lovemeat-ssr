@@ -1,4 +1,3 @@
-import axios from "axios"
 import productService from "./services/productService"
 
 export default {
