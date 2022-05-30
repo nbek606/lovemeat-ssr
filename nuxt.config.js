@@ -54,12 +54,30 @@ export default {
     sitemaps: [
       {
         path: '/sitemap.xml',
+        defaults: {
+          changefreq: 'monthly',
+          priority: 1,
+          lastmod: new Date()
+        },
         routes: async () => {
           const response = await axios.get('https://back.lovemeat.ru/wp-json/wc/v3/products/categories?consumer_key=ck_924a8f82c3ebe91af2023b430a9204d2691b3330&consumer_secret=cs_ba22345cfa5c295189cfebb57e467673153ddb16')  
-          
-            const list = response.data.map((category) => `/product-category/${category.slug}`);
-            console.log(list)
-            return list
+          const list = response.data.map((category) => `/product-category/${category.slug}`);
+          console.log(list)
+          return list
+        }
+      },
+      {
+        path: '/sitemap.xml',
+        defaults: {
+          changefreq: 'monthly',
+          priority: 1,
+          lastmod: new Date()
+        },
+        routes: async () => {
+          const response = await axios.get('https://back.lovemeat.ru/wp-json/wc/v3/products?consumer_key=ck_924a8f82c3ebe91af2023b430a9204d2691b3330&consumer_secret=cs_ba22345cfa5c295189cfebb57e467673153ddb16')  
+          const list = response.data.map((product) => `/product/${product.slug}`);
+          console.log(list)
+          return list
         }
       }
     ]
