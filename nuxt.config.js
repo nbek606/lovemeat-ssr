@@ -24,6 +24,15 @@ export default {
     'material-design-icons-iconfont/dist/material-design-icons.css'
   ],
 
+  sitemap: [
+    {
+      path: '/sitemap.xml',
+      routes: [
+        // array of URL
+      ]
+    }
+  ],
+
   modules: [
     '@nuxtjs/style-resources',
     '@nuxtjs/svg',
