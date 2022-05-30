@@ -60,7 +60,7 @@ export default {
           lastmod: new Date()
         },
         routes: async () => {
-          return productService.getSitemapRoutes()  
+          return await productService.getSitemapRoutes()  
         }
       }
     ]
