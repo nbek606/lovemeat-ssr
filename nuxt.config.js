@@ -1,4 +1,5 @@
 import axios from "axios"
+import productService from "./services/productService"
 
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
@@ -60,11 +61,7 @@ export default {
           lastmod: new Date()
         },
         routes: async () => {
-          const categories = await axios.get('https://back.lovemeat.ru/wp-json/wc/v3/products/categories?consumer_key=ck_924a8f82c3ebe91af2023b430a9204d2691b3330&consumer_secret=cs_ba22345cfa5c295189cfebb57e467673153ddb16')  
-          const products= await axios.get('https://back.lovemeat.ru/wp-json/wc/v3/products?per_page=100&consumer_key=ck_924a8f82c3ebe91af2023b430a9204d2691b3330&consumer_secret=cs_ba22345cfa5c295189cfebb57e467673153ddb16')  
-          const categoryList = categories.data.map((category) => `/product-category/${category.slug}`);
-          const productList = products.data.map((product) => `/product/${ product.slug }`);
-          return [...productList, ...categoryList]
+          return productService.getSitemapRoutes()  
         }
       }
     ]
