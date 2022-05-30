@@ -1,4 +1,4 @@
-import { wooApi } from '@/plugins/wooApi' 
+import { wooApi } from '../plugins/wooApi' 
 
 const uri = 'products'
 
