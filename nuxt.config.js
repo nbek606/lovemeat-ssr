@@ -31,7 +31,21 @@ export default {
     'nuxt-material-design-icons',
     'nuxt-material-design-icons-iconfont',
     'nuxtjs-mdi-font',
-    ['bootstrap-vue/nuxt', { css: false }]
+    ['bootstrap-vue/nuxt', { css: false }],
+
+    [
+      '@nuxtjs/yandex-metrika',
+      {
+        id: ' 88716742',
+        webvisor: true,
+        // clickmap: true,
+        // useCDN: false,
+        // trackLinks: true,
+        // accurateTrackBounce: true,
+      }
+    ],
+    '@nuxtjs/robots',
+    '@nuxtjs/sitemap'
   ],
 
   bootstrapVue: {

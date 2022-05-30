@@ -9,6 +9,9 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@nuxtjs/robots": "^2.5.0",
+    "@nuxtjs/sitemap": "^2.4.0",
+    "@nuxtjs/yandex-metrika": "^1.4.0",
     "@woocommerce/woocommerce-rest-api": "^1.0.1",
     "add": "^2.0.6",
     "axios": "^0.26.1",
