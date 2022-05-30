@@ -24,14 +24,20 @@ export default {
     'material-design-icons-iconfont/dist/material-design-icons.css'
   ],
 
-  sitemap: [
-    {
+  sitemap: {
+    hostname: 'https://lovemeat.ru',
+    sitemaps: [{
       path: '/sitemap.xml',
+      defaults: {
+        changefreq: 'monthly',
+        priority: 1,
+        lastmod: new Date()
+      },
       routes: [
         // array of URL
       ]
-    }
-  ],
+    }]
+  },
 
   modules: [
     '@nuxtjs/style-resources',
