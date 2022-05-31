@@ -280,6 +280,7 @@ export default {
 
   //метаданные
   head () {
+    console.log(this.category)
     if(this.category) {
       return {
         title: this.category.yoast_head_json.title,
