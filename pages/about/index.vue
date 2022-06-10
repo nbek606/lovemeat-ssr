@@ -43,7 +43,7 @@ export default {
     }
   },
   mounted () {
-    this.getData('about')
+    //this.getData('about')
     this.$productService.scrollPageTop('scroll_top')
   },
 
@@ -67,7 +67,10 @@ export default {
       }
     }
   },
-
+  async asyncData() {
+    this.data = await this.$pageApiService.getParentBySlug(slug)
+    console.log(this.data)
+  },
   computed: {
     breadcrumbs () {
       if (!this.data) {
