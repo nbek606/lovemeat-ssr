@@ -96,24 +96,21 @@ export default {
   }
 }
 </script>
-<style lang="scss" scoped>
-  #page {
-    padding-top: 100px;
-  }
-  
+<style lang="scss">
   .recipes_details {
     padding: 0 30px;
     width: 100%;
     min-height: 500px;
+
+    img {
+     width: 100%; 
+     height: auto;
+    }
 
     .global_title {
       margin-top: 0;
       padding-top: 0;
     }
 
-  }
-
-  img {
-    width: 200px !important; 
   }
 </style>

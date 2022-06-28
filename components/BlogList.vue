@@ -48,6 +48,7 @@ export default {
   .blog_list {
     display: flex;
     margin-bottom: 45px;
+    flex-wrap: wrap;
 
     @media (max-width: 800px) {
       flex-direction: column;

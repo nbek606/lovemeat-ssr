@@ -6,21 +6,31 @@
     <Breadcrumbs 
       :list="breadcrumbs"
     />
-    <h1
-      class="global_title"
-      v-if="parent"
-    >
-        {{ parent.title.rendered }}
-    </h1>
-    <RecipesList
-      v-if="recipesList.length > 0"
-      :list="recipesList"
-      :max="'all'"
-    />
-    <RecipesMaket
-      v-else
-      :max="6"
-    />
+    <div>
+      <h1
+        class="global_title"
+        v-if="parent"
+      >
+          {{ parent.title.rendered }}
+      </h1>
+      <RecipesList
+        v-if="recipesList.length > 0"
+        :list="recipesList"
+        :max="'all'"
+      />
+      <RecipesMaket
+        v-else
+        :max="6"
+      />
+    </div>
+    <div class="pagination">
+      <Pagination 
+        v-if="maxPage > 1"
+        :currentPage="currentPage"
+        :maxPage="maxPage"
+        @change-page="changePage"
+      />
+    </div>
   </div>
 </template>
 <script>
@@ -44,7 +54,10 @@ export default {
   data () {
     return {
       recipesList: [],
-      parent: false
+      parent: false,
+      maxPage:0,
+      currentPage: 1,
+      perPage: 8
     }
   },
   computed: {
@@ -95,11 +108,17 @@ export default {
       })
     },
     getList (parentId) {
-      this.$pageApiService.getPagesByParentId(parentId, 20).then((response) => {
+      this.$pageApiService.getPagesByParentId(parentId, this.currentPage, this.perPage).then((response) => {
         this.recipesList = response.data
-
+        this.maxPage = response.headers['x-wp-totalpages']
       })
-    }
+    },
+    changePage (page) {
+      this.recipesList = []
+      this.currentPage = page
+      this.getList(this.parent.id)
+      this.$productService.scrollPageTop('scroll_top')
+    },
   }
 }
 </script>

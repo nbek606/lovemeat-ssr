@@ -7,8 +7,8 @@ export default class pageApiService {
     return api(`${uri}?slug=${slug}`, 'get')
   }
 
-  static getPagesByParentId (parentId, perPage = 2) {
-    return api(`${uri}?parent=${parentId}&per_page=${perPage}`, 'get')
+  static getPagesByParentId (parentId, currentPage = 1, perPage = 16) {
+    return api(`${uri}?parent=${parentId}&page=${currentPage}&per_page=${perPage}`, 'get')
   }
 
   static getPageById (id) {

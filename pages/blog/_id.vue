@@ -98,9 +98,6 @@ export default {
 }
 </script>
 <style lang="scss" scoped>
-  #page {
-    padding-top: 100px;
-  }
   .blog_details {
     padding: 0 30px;
     min-height: 500px;

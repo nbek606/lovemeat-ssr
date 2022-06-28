@@ -55,13 +55,14 @@ export default {
 </script>
 <style lang="scss" scoped>
  .blog_list-item {
-      width: calc(50% - 22.5px);
+      width: calc(50% - 22.6px);
       position: relative;
-      
+      margin-bottom: 45px;
+      box-sizing: border-box;
 
       @media (min-width: 800px) {
-        &:nth-child(1) {
-          margin-right:45px;
+        &:nth-child(2n) {
+          margin-left:45px;
         }
       }
 
@@ -88,6 +89,7 @@ export default {
           color: #fff;
           text-decoration: none;
           padding: 20px;
+          box-sizing: border-box;
           margin-top: 20px;
           font-size: 2rem;
           z-index: 3;
