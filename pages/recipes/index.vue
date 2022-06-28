@@ -57,7 +57,7 @@ export default {
       parent: false,
       maxPage:0,
       currentPage: 1,
-      perPage: 8
+      perPage: 16
     }
   },
   computed: {
