@@ -10,7 +10,7 @@
     </div>
     <div 
       class="recipes_list-item-title"
-      @click="send(recipe.id)"
+      @click="send(recipe.slug)"
     >
       {{ recipe.title.rendered }}
     </div>
@@ -27,12 +27,11 @@ export default {
     }
   },
   methods: {
-    send (id) {
+    send (slug) {
       this.$productService.scrollPageTop('scroll_top')
-      
       this.$router.push({
         name: RouteName.RecipesDetails,
-        params: { id: id }
+        params: { slug: slug }
       })
     },
 

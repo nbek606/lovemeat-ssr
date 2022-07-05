@@ -42,7 +42,7 @@ export default {
   },
   mounted () {
     this.$productService.scrollPageTop('scroll_top')
-    this.getData(this.$route.params.id)
+    this.getData(this.$route.params.slug)
   },
   computed: {
     breadcrumbs () {
@@ -87,11 +87,11 @@ export default {
   },
 
   methods: {
-    getData(id) {
-      this.$pageApiService.getPageById(id).then((response) => {
-        this.blog = response.data
+    getData(slug) {
+      this.$pageApiService.getPageBySlug(slug).then((response) => {
+        this.blog = response.data.find(item => item.slug == slug);
       }).catch(() => {
-        this.error = true
+        this.error = true      
       })
     }
   }

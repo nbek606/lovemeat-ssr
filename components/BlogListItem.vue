@@ -31,7 +31,7 @@ export default {
       this.$router.push({
         name: RouteName.BlogDetails,
         params: {
-          id: this.blog.id
+          slug: this.blog.slug
         }
       })
     },

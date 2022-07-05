@@ -11,7 +11,7 @@ export default class pageApiService {
     return api(`${uri}?parent=${parentId}&page=${currentPage}&per_page=${perPage}`, 'get')
   }
 
-  static getPageById (id) {
-    return api(`${uri}/${id}`, 'get')
+  static getPageBySlug (slug) {
+    return api(`${uri}/?slug=${slug}`, 'get')
   }
 }

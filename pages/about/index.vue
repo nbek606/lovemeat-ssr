@@ -43,7 +43,7 @@ export default {
     }
   },
   mounted () {
-    //this.getData('about')
+    this.getData('about')
     this.$productService.scrollPageTop('scroll_top')
   },
 
@@ -67,10 +67,6 @@ export default {
       }
     }
   },
-  async asyncData() {
-    this.data = await this.$pageApiService.getParentBySlug(slug)
-    console.log(this.data)
-  },
   computed: {
     breadcrumbs () {
       if (!this.data) {
@@ -90,6 +86,7 @@ export default {
   },
   methods: {
     getData (slug) {
+      console.log('sss');
       this.$pageApiService.getParentBySlug(slug).then((response) => {
         this.data = response.data.find(item => item.slug == slug)
       })
